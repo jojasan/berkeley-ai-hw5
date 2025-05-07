@@ -1,6 +1,8 @@
 # Berkeley Assignment 5.1: Will the Customer Accept the Coupon?
 
 Author: John Santa - johnjairo@gmail.com
+- Please ensure your environment has `pandas`, `numpy`, `matplotlib`, and `seaborn` installed. Check the `requirements.txt` file and install using pip.
+- The full, detailed analysis can be found in the `coupon_analysis.ipynb` notebook.
 
 ## Problem
 
